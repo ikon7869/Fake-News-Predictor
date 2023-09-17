@@ -4,6 +4,7 @@ This project focuses on building a fake news prediction model using machine lear
 
 Dataset
 The dataset for this project was obtained from Kaggle and consists of approximately 72,000 news articles. It contains labeled data, where each article is categorized as either real or fake news.
+https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification
 
 Exploratory Data Analysis (EDA)
 In the initial phase of the project, we conducted Exploratory Data Analysis to gain insights into the dataset. This included:
